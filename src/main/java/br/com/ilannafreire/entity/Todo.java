@@ -53,4 +53,7 @@ public class Todo {
     public void setPrioridade(int prioridade) {
         this.prioridade = prioridade;
     }
+
+    public void set(Long id) {
+    }
 }
