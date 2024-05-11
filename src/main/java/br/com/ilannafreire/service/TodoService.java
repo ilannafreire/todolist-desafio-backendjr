@@ -3,9 +3,7 @@ package br.com.ilannafreire.service;
 
 import br.com.ilannafreire.entity.Todo;
 import br.com.ilannafreire.repository.TodoRepository;
-import io.micrometer.observation.Observation;
 import org.apache.coyote.BadRequestException;
-import org.springframework.data.domain.Example;
 import org.springframework.data.domain.Sort;
 import org.springframework.stereotype.Service;
 
